@@ -1,0 +1,23 @@
+{
+  "name": "niltonheck.github.io",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "bower": "^1.7.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niltonheck/niltonheck.github.io"
+  },
+  "author": "Nilton Heck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niltonheck/niltonheck.github.io/issues"
+  }
+}
